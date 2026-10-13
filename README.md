@@ -1,12 +1,20 @@
-As of 10/4/26 Full native game play of Original Xbox Game Backups on a x86_64 Linux PC is supported. 
+As of 10/12/2026, the following games are fully supported
+1. EA Sports MVP Baseball 2004
+2. Lord of the Rings Return of the King
+3. Halo Combat Evolved
+4. True Crime Streets of LA
 
-This project will be adding other x86_64 based console compatibility layers in the future. 
+As more games are confirmed working with this compatibility layer, they will be added to the list. 
 
-Please review the Readme.md file in its entirety before trying to fun any games as it provides answers to most issues users may experience during install. 
+Players can assist in the growing the list by playing their backups on the Reduxibox Suite Compatibility Layer and submitting an email to reduximusgaming@gmail.com if the game works. 
 
-It is recommended that users create a dedicated Games folder somewhere on their Linux PC to easily load games. 
+If a game has issues, please take a screenshot of the issue and message me on Discord @Reduximus_Maximus.
 
-Converting games is required. Game conversion allows the user just double click their converted .msxbx game backup and run it without having to open a window to select files. 
+Please read the Readme for the release you download as some instructions will change as the project continues to progress.
 
-For any questions or if you experience any issues with installation or playing games, please email reduximustechnologies@outlook.com.
+This project was born from Microsoft slow walking support for original XBOX games. 
+
+This project is not for piracy. This project is build to ensure that you will be able to enjoy the XBOX games which you have purchased. 
+
+Have Fun!
 
